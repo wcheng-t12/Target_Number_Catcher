@@ -4,9 +4,8 @@
 **File:** `math-game.html`
 
 ## 🌐 Play Online
-Replace `YOUR-USERNAME` and `YOUR-REPO-NAME` with your GitHub details:
 ```
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/math-game.html
+https://wcheng-t12.github.io/Target_Number_Catcher/
 ```
 
 ## 📖 About
