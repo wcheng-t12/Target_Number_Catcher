@@ -4,9 +4,8 @@
 **File:** `math-game.html`
 
 ## 🌐 Play Online
-```
 https://wcheng-t12.github.io/Target_Number_Catcher/
-```
+
 
 ## 📖 About
 A fast-paced number-catching game. Each round displays a rule — e.g. *"Catch multiples of 3"*, *"Catch PRIME numbers"*, or *"Catch numbers GREATER than 12"*. Numbered balls fall from the top of the screen; move your basket to catch the numbers that match the rule and avoid the ones that don't.
